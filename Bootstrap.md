@@ -1,2 +1,0 @@
-# BOOTSTRAP
-* Full Bootstrap framework
