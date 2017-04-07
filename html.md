@@ -13,3 +13,8 @@
 * Responsive HTML.
 * Checking the validation of the HTML document using validator.w3.org.
 * Debugging and fixing the HTML validation issues using debugging tools.
+
+# FEW REFERENCES
+* https://www.w3schools.com/html/
+* http://htmldog.com/guides/html/beginner/
+* https://developer.mozilla.org/en-US/docs/Learn/HTML
