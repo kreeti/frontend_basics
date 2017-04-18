@@ -6,6 +6,6 @@
 * Understand Bootstrap framework and successfully use it to create responsive layouts easily.
 
 # SYLLABUS
-### [Html](https://github.com/kreeti/frontend_basics/blob/master/html.md)
-### [Css](https://github.com/kreeti/frontend_basics/blob/master/css.md)
+### [HTML](https://github.com/kreeti/frontend_basics/blob/master/html.md)
+### [CSS](https://github.com/kreeti/frontend_basics/blob/master/css.md)
 ### [Bootstrap](https://github.com/kreeti/frontend_basics/blob/master/bootstrap.md)
