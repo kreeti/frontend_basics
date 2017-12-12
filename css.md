@@ -9,7 +9,7 @@
   * CSS Box sizing
   * z-index
   * Clearing floats
-  * Advanced CSS - Animations & Transitions
+  * Animations & Transitions
   * Media Queries
   * CSS3 Flexible Box
   * Bootstrap Framework
